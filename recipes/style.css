@@ -1,0 +1,23 @@
+h1 {
+    font-size: xx-large;
+
+}
+
+h3{
+    font-size: larger;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+h1,h3 {
+    font-family: cursive, serif;
+    color: rgb(12, 117, 117);
+    font-weight: bolder;
+
+}
+
+p, li {
+    font-size: large;
+}
